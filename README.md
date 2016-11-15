@@ -5,7 +5,7 @@ Too lazy ...
 
 
 ## Live demo
-Check out: [http://www.andreasgiemza.de/impact-genetic-algorithm/](http://www.andreasgiemza.de/impact-genetic-algorithm/)
+Check out: [http://www.andreasgiemza.de/programmieren/javascript/impact-genetic-algorithm](http://www.andreasgiemza.de/programmieren/javascript/impact-genetic-algorithm)
 
 
 ## Example
